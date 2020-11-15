@@ -1,7 +1,7 @@
 # Horiseon
 01-Homework Bootcamp
 
-Changed the title to Horiseon in <head>.
+Changed the title to Horiseon.
 
 Added semantic HTML elements and comments to describe each section.
 
